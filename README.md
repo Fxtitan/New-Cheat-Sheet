@@ -1,5 +1,7 @@
-# My Cheat Sheet <h1>
+# `My Cheat Sheet` <h1>
 
+
+![Image of Yaktocat](https://www.collinsdictionary.com/images/thumb/dictionary_168552845_250.jpg)
 
 # First Time Try <h2> 
 
